@@ -1,0 +1,11 @@
+# Demo 1. Replace serializer
+Demonstrates how DataContractSerializer can be replaced with custom serializer (e. g. protobuf-net) by implementing custom message formatter.
+
+# Demo 2. Service throttling
+Demonstrates how increase MaxConcurrentCalls value.
+
+# Demo 3. WCF idle slowness
+Demonstrates WCF thread pool issue and a workaround.
+
+# Demo 4. Asynchronous WCF service, APM pattern
+Demonstrates how AsyncPattern = true works.
