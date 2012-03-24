@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClient", "HttpClient.csproj", "{AAA54189-C518-4716-BD46-86C4B3EA63FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA54189-C518-4716-BD46-86C4B3EA63FB}.Debug|x86.ActiveCfg = Debug|x86
+		{AAA54189-C518-4716-BD46-86C4B3EA63FB}.Debug|x86.Build.0 = Debug|x86
+		{AAA54189-C518-4716-BD46-86C4B3EA63FB}.Release|x86.ActiveCfg = Release|x86
+		{AAA54189-C518-4716-BD46-86C4B3EA63FB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
