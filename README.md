@@ -1,7 +1,3 @@
-# HttpClient
-HttpClient used for the demos is available here: https://github.com/donatasm/WCF-Performance-Tuning/tree/master/HttpClient
-
-
 # Demo 1. Replace serializer
 Demonstrates how DataContractSerializer can be replaced with custom serializer (e. g. protobuf-net) by implementing custom message formatter.
 
